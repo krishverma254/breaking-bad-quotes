@@ -694,3 +694,8 @@ module.exports = [
         "author": "Walter White"
     }
 ];
+{
+  "quote": "Success is just about doing nothing and waiting for good things to happen.",
+  "author": "Krish Verma"
+}
+
